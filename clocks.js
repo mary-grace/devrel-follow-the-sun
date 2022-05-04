@@ -6,7 +6,7 @@ const timeZones = {
     team: "Danielle, Mary" // team members working in this timezone
   },
   1: {
-    timezone: "America/Phoenix",
+    timezone: "America/Denver",
     name: "Mountain Time",
     team: "Christina"
   },
@@ -26,7 +26,7 @@ const timeZones = {
     team: "Bernd, Luca, Maria, Nele, Niall, Thomas"
   },
   5: {
-    timezone: "	Pacific/Auckland",
+    timezone: "Pacific/Auckland",
     name: "New Zealand",
     team: "Josh"
   }
