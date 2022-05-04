@@ -3,32 +3,32 @@ const timeZones = {
   0: {
     timezone: "America/Los_Angeles", // tz database name - https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
     name: "West Coast", // display name for this timezone
-    team: "Jane, John" // team members working in this timezone
+    team: "Danielle, Mary" // team members working in this timezone
   },
   1: {
-    timezone: "America/New_York",
-    name: "East Coast",
-    team: "The team on the East Coast"
+    timezone: "America/Phoenix",
+    name: "Mountain Time",
+    team: "Christina"
   },
   2: {
-    timezone: "Europe/London",
-    name: "London",
-    team: "Someone in the UK"
+    timezone: "America/Chicago",
+    name: "Central Time",
+    team: "Amara, Mia, Steven"
   },
   3: {
-    timezone: "Europe/Berlin",
-    name: "Berlin",
-    team: "Two people in Berlin"
+    timezone: "America/New_York",
+    name: "East Coast",
+    team: "David"
   },
   4: {
-    timezone: "Asia/Dubai",
-    name: "Dubai",
-    team: "Someone in Dubai"
+    timezone: "Europe/Berlin",
+    name: "Germany",
+    team: "Bernd, Luca, Maria, Nele, Niall, Thomas"
   },
   5: {
-    timezone: "Australia/Sydney",
-    name: "Sydney",
-    team: "The team in Sydney"
+    timezone: "	Pacific/Auckland",
+    name: "New Zealand",
+    team: "Josh"
   }
 }
 
